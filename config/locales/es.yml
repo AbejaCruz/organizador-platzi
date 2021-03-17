@@ -1,0 +1,28 @@
+---
+es:
+  activerecord:
+    models:
+      category:
+        one: Categoría
+        others: Categorías
+  categories:
+    form:
+      descripcion: Descripcion
+      name: Nombre
+    new_category: Nueva Categoria
+  common:
+    are_you_sure: ¿Está seguro?
+    back: Atrás
+    destroy: Eliminar
+    edit: Editar
+    show: Mostrar
+  hello: Hello world
+  task:
+    errors:
+      invalid_due_date: La fecha no peude estar en el pasado
+  tasks:
+    form:
+      category: Categoría
+      description: Descripcion
+      due_date: fecha de Vencimiento
+      name: Nombre
